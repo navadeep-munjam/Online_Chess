@@ -33,13 +33,14 @@ The project is built using Node.js and React.js for the frontend, and Socket.IO 
    ```
 
 ### Install dependencies
+```sh
 
 npm i body-parser express socket.io chess.js
-
+```
 ### Start the development server
-
+```sh
 node index.js
-
+```
 - The server will start on port 8080 by default. You can access the application by navigating to http://localhost:8080 in your web browser.
 
 ### Usage
